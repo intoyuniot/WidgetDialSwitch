@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetDialSwitch   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getSwitch1  KEYWORD2
+getSwitch2  KEYWORD2
+getSwitch3  KEYWORD2
+controlSwitch  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+

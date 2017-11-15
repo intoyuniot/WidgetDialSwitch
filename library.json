@@ -1,0 +1,17 @@
+{
+    "name": "WidgetDialSwitch",
+    "version": "1.0.0",
+    "keywords": "Widget,DialSwitch",
+    "description": "拨码开关应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetDialSwitch.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
